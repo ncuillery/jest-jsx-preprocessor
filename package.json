@@ -1,0 +1,31 @@
+{
+  "name": "jest-jsx-preprocessor",
+  "version": "0.1.0",
+  "description": "JSX preprocessor for the testing framework Jest",
+  "main": "lib/full-transform.js",
+  "scripts": {
+    "test": "nodeunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ncuillery/jest-jsx-preprocessor.git"
+  },
+  "keywords": [
+    "jest",
+    "jsx",
+    "preprocessor",
+    "react"
+  ],
+  "author": "Nicolas Cuillery <nicolas.cuillery@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ncuillery/jest-jsx-preprocessor/issues"
+  },
+  "homepage": "https://github.com/ncuillery/jest-jsx-preprocessor",
+  "devDependencies": {
+    "react-tools": "^0.12.2"
+  },
+  "peerDependencies": {
+    "react-tools": "^0.12.2"
+  }
+}
